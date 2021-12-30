@@ -1,6 +1,6 @@
 # Hi, I'm [N]icola 👋
 
-🪧 Welcome to my little corner of the internet❗.
+🪧 Welcome to my little corner of the internet❗
 
 I am... :thinking: what I am:question:
 
