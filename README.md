@@ -17,7 +17,7 @@ After a couple of postdocs I quit academia, but I keep loving (astro)science, an
 - 💬 Ask me about anything related to astrophysics/Python/Fortran
 - ⚡ Fun fact: I ❤️ ♔,🎥 and 🚴
 
-### 📊 **Some stats**
+### 📊 **[Some stats](https://github.com/anuraghazra/github-readme-stats)**
 
 ![[N]icola's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiacobboNicola&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacobboNicola&layout=compact)](https://github.com/GiacobboNicola/github-readme-stats)
