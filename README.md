@@ -1,4 +1,4 @@
-# Hi, I'm [N]icola 👋
+# Hi, I'm [\}icola 👋
 
 ### 🪧 **Welcome to my little corner of the internet**❗
 
