@@ -1,8 +1,8 @@
-# Hi, I'm Nicola 👋 [ \\ }
+# Hi, I'm Nicola 👋
 
 ### 🪧 **Welcome to my little corner of the internet**❗
 
-I am... :thinking: who I am:question:
+I am... :thinking: who am I:question:
 
 Well, my degree says I'm an astronomer 🔭, but I used to see myself more as an astrophysicist ⌨️ (yeah, they're not the same thing :astonished:). 
 After a couple of postdocs I quit academia, but I keep loving (astro)science, and I redirected my energies to study another kind of universe... 🌌 -> 🖥️. 
