@@ -11,13 +11,14 @@ After a couple of postdocs I quit academia, but I keep loving (astro)science, an
 ### 🤖 **Brief about me**
 - 😄 Pronouns: he/him/his
 - I'm 🇮🇹
-- 🔭 I’m currently working on cool stuff 😎
+- 🔭 I’m currently working on cool stuff 😎 (don't you believe me? I'll be happy to show you)
 - 🌱 I’m currently learning to
-  - become a full stack developer
+  - better understand the AI's world
   - improve as data analist
+  - enhance my software developer skills
 - 👯 I’m open to collaborate
 - 💬 Ask me about anything related to astrophysics/Python/Fortran/Docker
-- ⚡ Fun fact: I ❤️ ♔,🎥 and 🚴
+- ⚡ Fun fact: I ❤️ ♔,🎥 and 🚴,🏊
 
 ### 📊 **[Some stats](https://github.com/anuraghazra/github-readme-stats)**
 
